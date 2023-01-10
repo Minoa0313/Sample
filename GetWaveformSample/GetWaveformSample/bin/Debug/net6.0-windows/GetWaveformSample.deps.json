@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GetWaveformSample/1.0.0": {
+        "dependencies": {
+          "Ivi.Visa": "5.11.0.0",
+          "NationalInstruments.Common": "19.1.40.49152",
+          "NationalInstruments.Visa": "22.5.0.49212"
+        },
+        "runtime": {
+          "GetWaveformSample.dll": {}
+        }
+      },
+      "Ivi.Visa/5.11.0.0": {
+        "runtime": {
+          "Ivi.Visa.dll": {
+            "assemblyVersion": "5.11.0.0",
+            "fileVersion": "5.11.3422.0"
+          }
+        }
+      },
+      "NationalInstruments.Common/19.1.40.49152": {
+        "runtime": {
+          "NationalInstruments.Common.dll": {
+            "assemblyVersion": "19.1.40.49152",
+            "fileVersion": "19.1.40.49152"
+          }
+        }
+      },
+      "NationalInstruments.Visa/22.5.0.49212": {
+        "runtime": {
+          "NationalInstruments.Visa.dll": {
+            "assemblyVersion": "22.5.0.49212",
+            "fileVersion": "22.5.0.49212"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GetWaveformSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ivi.Visa/5.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NationalInstruments.Common/19.1.40.49152": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NationalInstruments.Visa/22.5.0.49212": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
