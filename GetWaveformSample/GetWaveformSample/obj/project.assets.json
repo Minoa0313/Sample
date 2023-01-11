@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\GetWaveformSample\\GetWaveformSample\\GetWaveformSample.csproj",
+      "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\GetWaveformSample\\GetWaveformSample\\GetWaveformSample.csproj",
       "projectName": "GetWaveformSample",
-      "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\GetWaveformSample\\GetWaveformSample\\GetWaveformSample.csproj",
+      "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\GetWaveformSample\\GetWaveformSample\\GetWaveformSample.csproj",
       "packagesPath": "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\GetWaveformSample\\GetWaveformSample\\obj\\",
+      "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\GetWaveformSample\\GetWaveformSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Takt_Visitor7\\AppData\\Roaming\\NuGet\\NuGet.Config",

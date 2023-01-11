@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFITRouJjxem95TVEKo2k8FcEidGbM7MaHcogxiPGO092+IvxFrm+1kntq8+1o2KnKyCweIWSnVyWcw7lDOn+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\SerialCommunicationSample\\SerialCommunicationSample\\SerialCommunicationSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
