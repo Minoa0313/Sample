@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LanguageSwitchSample/1.0.0": {
+        "dependencies": {
+          "WpfControlLibrary1": "1.0.0.0"
+        },
+        "runtime": {
+          "LanguageSwitchSample.dll": {}
+        }
+      },
+      "WpfControlLibrary1/1.0.0.0": {
+        "runtime": {
+          "WpfControlLibrary1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanguageSwitchSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfControlLibrary1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

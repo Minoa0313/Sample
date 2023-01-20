@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="WpfControlLibrary1">
+      <HintPath>..\WpfControlLibrary1\bin\Debug\net6.0-windows\WpfControlLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

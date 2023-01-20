@@ -1,0 +1,32 @@
+﻿<Window x:Class="LanguageSwitchSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:UserControl="clr-namespace:WpfControlLibrary1;assembly=WpfControlLibrary1"
+        xmlns:local="clr-namespace:LanguageSwitchSample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.Row="0" Margin="10" FontSize="60" Content="en" Click="Button_en_Click"/>
+        <Button Grid.Row="1" Margin="10" FontSize="60" Content="ja" Click="Button_ja_Click"/>
+
+
+        <!--DynamicResource Start ここでkeyの値を読み込む-->
+        <TextBlock Grid.Row="0" Grid.Column="1" FontSize="60" VerticalAlignment="Center" Text="{DynamicResource Start}"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" FontSize="60" VerticalAlignment="Center" Text="{DynamicResource Stop}"/>
+
+        <UserControl:UserControl1 x:Name="uc1" Grid.Row="2" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>
