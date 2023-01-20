@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\WpfControlLibrary1.csproj": {}
+    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\WpfControlLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\WpfControlLibrary1.csproj": {
+    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\WpfControlLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
         "projectName": "WpfControlLibrary1",
-        "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
+        "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
         "packagesPath": "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\obj\\",
+        "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Takt_Visitor7\\AppData\\Roaming\\NuGet\\NuGet.Config",

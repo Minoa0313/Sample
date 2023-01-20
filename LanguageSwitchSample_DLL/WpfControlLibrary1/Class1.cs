@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 
 namespace WpfControlLibrary1
@@ -37,6 +33,9 @@ namespace WpfControlLibrary1
 
             try
             {
+                // ここは大事！
+                // DLL から リソースディレクトリを使うとき、
+                // Uri の書き方 new Uri("/現在のプロジェクト名;component/相対パス",UriKind.Relative)
                 langRd = Application.LoadComponent(new Uri("/WpfControlLibrary1;component/" + langFile, UriKind.Relative)) as ResourceDictionary;
             }
             catch (Exception ex)
@@ -49,6 +48,7 @@ namespace WpfControlLibrary1
             {
                 if (control.Resources.MergedDictionaries.Count > 0)
                 {
+                    // 設計画面で言語リソースディレクトリを0番に固定で設定したので
                     control.Resources.MergedDictionaries[0] = langRd;
                 }
                 else

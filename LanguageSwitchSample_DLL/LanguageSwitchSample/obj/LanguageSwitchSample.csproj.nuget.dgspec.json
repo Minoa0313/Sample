@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\LanguageSwitchSample\\LanguageSwitchSample.csproj": {}
+    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\LanguageSwitchSample\\LanguageSwitchSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\LanguageSwitchSample\\LanguageSwitchSample.csproj": {
+    "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\LanguageSwitchSample\\LanguageSwitchSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\LanguageSwitchSample\\LanguageSwitchSample.csproj",
+        "projectUniqueName": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\LanguageSwitchSample\\LanguageSwitchSample.csproj",
         "projectName": "LanguageSwitchSample",
-        "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\LanguageSwitchSample\\LanguageSwitchSample.csproj",
+        "projectPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\LanguageSwitchSample\\LanguageSwitchSample.csproj",
         "packagesPath": "C:\\Users\\Takt_Visitor7\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\LanguageSwitchSample\\obj\\",
+        "outputPath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\LanguageSwitchSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Takt_Visitor7\\AppData\\Roaming\\NuGet\\NuGet.Config",

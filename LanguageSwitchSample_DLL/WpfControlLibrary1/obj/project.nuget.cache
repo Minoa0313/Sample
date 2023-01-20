@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zN0Ch+X4dHM41NxxUlVbfo+pkhMkzTb2VMIsukldeA5IMxHTOOb94STDxMuvZy4mIisDzLx4S59eRD+hq6/8Kg==",
+  "dgSpecHash": "NRpZeWrMGNY5A1W4E/tpnFqBUQ3bP/WmSBdoptNAQsirKizAsOFFuSoZb9sWP0xiMvuSePjdNCon37RFsGLVMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
+  "projectFilePath": "C:\\Users\\Takt_Visitor7\\Desktop\\Sample\\LanguageSwitchSample_DLL\\WpfControlLibrary1\\WpfControlLibrary1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

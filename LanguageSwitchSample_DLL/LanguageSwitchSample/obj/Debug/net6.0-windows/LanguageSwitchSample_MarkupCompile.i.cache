@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Takt_Visitor7\Desktop\Sample\LanguageSwitchSample\LanguageSwitchSample\obj\Debug\net6.0-windows\
+C:\Users\Takt_Visitor7\Desktop\Sample\LanguageSwitchSample_DLL\LanguageSwitchSample\obj\Debug\net6.0-windows\
 LanguageSwitchSample
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Takt_Visitor7\Desktop\Sample\LanguageSwitchSample\LanguageSwitchSample\App.xaml
+C:\Users\Takt_Visitor7\Desktop\Sample\LanguageSwitchSample_DLL\LanguageSwitchSample\App.xaml
 3-783461619
 
 5-1500395054
-195159068607
+19535832509
 lang\english.xaml;lang\japanses.xaml;MainWindow.xaml;
 
-True
+False
 
